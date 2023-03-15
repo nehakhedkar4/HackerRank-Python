@@ -1,5 +1,5 @@
-''' You are given a 2-D array with dimensions X.
-Your task is to perform the min function over axis  and then find the max of that. '''
+''' You are given a 2-D array with dimensions n X m.
+Your task is to perform the min function over axis 1 and then find the max of that. '''
 
 import numpy as np
 n, m = map(int, input("kk : ").split())
